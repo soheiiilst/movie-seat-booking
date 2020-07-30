@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## How To Use 🔧
 
-From your command line, first clone MOVIE SEAT BOOKING:
+From your command line, first clone Movie Seat Booking:
 
 ```bash
 # Clone this repository
